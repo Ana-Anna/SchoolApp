@@ -1,0 +1,10 @@
+obj/
+*.user
+*.suo
+.vscode/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+AppData/
